@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/21f7gmrt7mrmh.css","style"]
+:HL["/assets/fonts/UxumGrotesque-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/assets/fonts/UxumGrotesque-Light.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/assets/fonts/UxumGrotesque-Medium.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/assets/fonts/UxumGrotesque-Bold.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/images/skyline_hub.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locations","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"meydan-horizon-dubai-property-investment","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wenest-build"}

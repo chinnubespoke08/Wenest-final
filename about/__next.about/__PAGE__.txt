@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[45678,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+4:I[59529,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+5:I[15337,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+6:I[50058,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+7:I[92893,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+8:I[43482,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+9:I[96410,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+a:I[23614,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+10:I[17683,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+11:I[13642,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/3ffb5q3w_zjrn.js","/_next/static/chunks/2y3p1e45r9lz3.js"],"default"]
+12:I[97367,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+3:T5d4,
+        .about-hero {
+          background-color: #02042d;
+          width: 100%;
+          height: 100dvh;
+          height: 100vh;
+          display: flex;
+          flex-direction: row;
+          overflow: hidden;
+          position: relative;
+          min-height: 500px;
+        }
+        .about-hero-text {
+          flex: 0 0 50%;
+          background-color: #02042d;
+          display: flex;
+          align-items: center;
+          padding: 124px 80px 60px 60px;
+        }
+        .about-hero-video {
+          flex: 0 0 50%;
+          overflow: hidden;
+          position: relative;
+        }
+        .about-hero-video video {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          object-position: 50% 50%;
+          display: block;
+        }
+        @media (max-width: 809px) {
+          .about-hero {
+            flex-direction: column;
+            height: 100dvh;
+            height: 100vh;
+            min-height: unset;
+          }
+          .about-hero-text {
+            flex: 1 1 0;
+            height: auto;
+            padding: 110px 24px 32px;
+            width: 100%;
+            justify-content: center;
+          }
+          .about-hero-video {
+            flex: 0 0 45%;
+            height: 45%;
+            width: 100%;
+            min-height: unset;
+          }
+        }
+        @media (min-width: 810px) and (max-width: 1024px) {
+          .about-hero-text {
+            padding: 100px 40px 60px 40px;
+          }
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"backgroundColor":"#fff","overflowX":"hidden"},"children":[["$","$L2",null,{}],[["$","style",null,{"children":"$3"}],["$","section",null,{"className":"about-hero","children":[["$","div",null,{"className":"about-hero-text","children":["$","$L4",null,{"text":"About WeNest Real Estate LLC: Building Trusted Nests for Global Investors","style":{"fontFamily":"\"Uxum Grotesque Regular\", sans-serif","fontSize":"clamp(28px, 4.5vw, 64px)","letterSpacing":"-1.5px","lineHeight":"1.1em","color":"#e0c996","margin":0,"fontWeight":400}}]}],["$","div",null,{"className":"about-hero-video","children":["$","video",null,{"src":"/assets/videos/about-hero-bg.mp4","loop":true,"muted":true,"autoPlay":true,"playsInline":true,"preload":"auto"}]}]]}]],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{"faqs":[{"q":"Who founded WeNest Real Estate LLC?","a":"WeNest was founded by Arash, a real estate professional with over a decade of experience in UAE and international property markets, with a focus on serving offshore and cross-border investors."},{"q":"What is WeNest's mission?","a":"WeNest provides strategic property solutions with a foundation of trust, quality and transparency - helping clients confidently grow their real estate nest through well-researched, honest and personalised advisory."},{"q":"What is WeNest's vision?","a":"WeNest's vision is to build trusted nests through a strategic mindset, quality real estate and transparent partnerships with every client they serve."},{"q":"Why should I choose WeNest over a local Dubai agent?","a":"WeNest is specifically built for offshore buyers. Unlike general Dubai agencies, WeNest focuses exclusively on international investors - offering English-only communication, remote transaction support, and tailored advice suited to buyers who are not based in the UAE."},{"q":"Is WeNest a licensed real estate company?","a":"Yes. WeNest Real Estate LLC is a UAE-registered real estate agency operating in full compliance with local property regulations and developer partnerships."}],"theme":"dark"}],"$Lb","$Lc"]}],["$Ld","$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wenest-build"}
+b:["$","$L10",null,{}]
+c:["$","$L11",null,{}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/3ffb5q3w_zjrn.js","async":true}]
+e:["$","script","script-1",{"src":"/_next/static/chunks/2y3p1e45r9lz3.js","async":true}]
+f:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

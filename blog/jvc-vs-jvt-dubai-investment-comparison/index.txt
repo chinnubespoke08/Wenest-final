@@ -1,0 +1,379 @@
+1:"$Sreact.fragment"
+a:I[68027,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default",1]
+:HL["/_next/static/chunks/21f7gmrt7mrmh.css","style"]
+:HL["/assets/fonts/UxumGrotesque-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/assets/fonts/UxumGrotesque-Light.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/assets/fonts/UxumGrotesque-Medium.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/assets/fonts/UxumGrotesque-Bold.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+2:T73e,{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.wenestre.com/#website","name":"WeNest","alternateName":"WeNest Real Estate LLC","url":"https://www.wenestre.com","description":"UAE off-plan property agency helping international investors buy property in Dubai remotely.","publisher":{"@id":"https://www.wenestre.com/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.wenestre.com/projects?q={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"https://www.wenestre.com/#organization","name":"WeNest Real Estate LLC","alternateName":"WeNest","url":"https://www.wenestre.com","dateModified":"2026-10-07","logo":{"@type":"ImageObject","url":"https://www.wenestre.com/assets/images/wenest-logo.svg"},"sameAs":["https://www.instagram.com/wenest.dubai/","https://www.facebook.com/profile.php?id=61590713682117","https://www.linkedin.com/company/wenest-real-estate-dubai/"],"contactPoint":[{"@type":"ContactPoint","telephone":"+971-54-151-1512","contactType":"customer service","availableLanguage":["English","Arabic","Persian"]}],"address":{"@type":"PostalAddress","streetAddress":"Business Bay","addressLocality":"Dubai","addressCountry":"AE"}},{"@type":"RealEstateAgent","@id":"https://www.wenestre.com/#agent","name":"WeNest Real Estate LLC","alternateName":"WeNest","url":"https://www.wenestre.com","telephone":"+971-54-151-1512","email":"info@wenestre.com","address":{"@type":"PostalAddress","streetAddress":"Business Bay","addressLocality":"Dubai","addressCountry":"AE"},"areaServed":[{"@type":"City","name":"Dubai"},{"@type":"Country","name":"United Arab Emirates"}],"knowsAbout":["Off-plan property","Dubai real estate","Property investment","UAE off-plan investment","International property buyers"]}]}3:T64d,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is WeNest Real Estate LLC?","acceptedAnswer":{"@type":"Answer","text":"WeNest Real Estate LLC is a UAE-based off-plan property agency founded in 2026, helping international investors from Australia, New Zealand, Hong Kong, Singapore, England, Turkey, Armenia, and beyond purchase property in Dubai and the UAE remotely."}},{"@type":"Question","name":"What types of properties does WeNest offer?","acceptedAnswer":{"@type":"Answer","text":"WeNest offers a curated selection of off-plan properties including apartments, studio apartments, villas, townhouses, duplexes, penthouses and commercial units across Dubai and the wider UAE."}},{"@type":"Question","name":"Can I invest in UAE property from overseas without visiting Dubai?","acceptedAnswer":{"@type":"Answer","text":"Yes. WeNest is built specifically for offshore investors. The entire process - from project selection to reservation and transaction - can be completed remotely without visiting a showroom or travelling to the UAE."}},{"@type":"Question","name":"Which countries does WeNest serve?","acceptedAnswer":{"@type":"Answer","text":"WeNest currently serves investors based in Australia, New Zealand, Hong Kong, Singapore, England, Turkey, and Armenia, providing a secure, 100% remote transaction path on WhatsApp."}},{"@type":"Question","name":"What currencies does WeNest accept?","acceptedAnswer":{"@type":"Answer","text":"All WeNest property listings are priced in USD and AED to provide international buyers with stable, predictable pricing."}}]}0:{"P":null,"c":["","blog","jvc-vs-jvt-dubai-investment-comparison",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","jvc-vs-jvt-dubai-investment-comparison","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/21f7gmrt7mrmh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2urc19nznf94g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1y7rf292ko3d_.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2cw0y28ds1-ro.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/381lqymw6tbp1.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/3l8z92x2dwnki.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/assets/fonts/UxumGrotesque-Regular.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/assets/fonts/UxumGrotesque-Light.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/assets/fonts/UxumGrotesque-Medium.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/assets/fonts/UxumGrotesque-Bold.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wenest-build"}
+c:I[79520,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],""]
+e:I[97320,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+f:I[56253,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+10:I[63687,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+11:I[15210,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+12:I[81375,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"CurrencyProvider"]
+13:I[39756,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+14:I[37457,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+15:I[29306,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/2i3z5ftizmira.js"],"default"]
+16:I[92575,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"FloatingWhatsAppWidget"]
+17:I[20466,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"default"]
+19:I[97367,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[97367,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"ViewportBoundary"]
+1f:I[97367,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"MetadataBoundary"]
+d:["$","img",null,{"height":"1","width":"1","style":{"display":"none"},"src":"https://www.facebook.com/tr?id=2494734274328869&ev=PageView&noscript=1","alt":""}]
+4:["$","body",null,{"children":[["$","$Lc",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-RQBHMW31WX","strategy":"afterInteractive"}],["$","$Lc",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18364005209","strategy":"afterInteractive"}],["$","$Lc",null,{"id":"ga4-init","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            window.gtag = window.gtag || function(){(window.dataLayer = window.dataLayer || []).push(arguments);};\n            window.gtag('js', new Date());\n            window.gtag('config', 'G-RQBHMW31WX', { page_path: window.location.pathname });\n            window.gtag('config', 'AW-18364005209');\n          "}],["$","$Lc",null,{"id":"hs-script-loader","src":"//js-na2.hs-scripts.com/246390296.js","strategy":"afterInteractive"}],["$","$Lc",null,{"id":"fb-pixel","strategy":"afterInteractive","children":"\n            !function(f,b,e,v,n,t,s)\n            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            'https://connect.facebook.net/en_US/fbevents.js');\n            fbq('init', '2494734274328869');\n            fbq('track', 'PageView');\n          "}],["$","noscript",null,{"children":"$d"}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{"children":[["$","$L13",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L14",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L15",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L16",null,{}],["$","$L17",null,{}]]}]]}]
+5:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L14",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+6:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L14",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+7:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/_next/static/chunks/0c42mny4fqwb3.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3ffb5q3w_zjrn.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+8:"$W1c"
+9:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],null]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/21f7gmrt7mrmh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:Tf7d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison#blogposting","url":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison","headline":"JVC vs JVT Dubai: Which Fits Your Investment Profile?","description":"JVC vs JVT compared for investors, yield, supply pipeline, price per sq.ft, tenant profile, and which community fits your budget and risk tolerance in 2026.","image":"https://www.wenestre.com/images/projects/fifth-tower/fifth-tower-hero-1.webp","datePublished":"August 4, 2026","dateModified":"August 2026","author":{"@type":"Person","name":"Arash Ahmadi","jobTitle":"Founder & CEO","worksFor":{"@type":"Organization","name":"WeNest Real Estate LLC"},"knowsAbout":["Dubai real estate","off-plan property","UAE investment"],"sameAs":["https://www.linkedin.com/company/wenest-real-estate/"]},"publisher":{"@type":"Organization","name":"WeNest Real Estate LLC","logo":{"@type":"ImageObject","url":"https://www.wenestre.com/favicon.svg"},"address":{"@type":"PostalAddress","streetAddress":"Property Investment Office 4, Dubai Investment Park First","addressLocality":"Dubai","addressCountry":"AE"},"telephone":"+971541511512","url":"https://www.wenestre.com"}},{"@type":"BreadcrumbList","@id":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.wenestre.com"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.wenestre.com/blog"},{"@type":"ListItem","position":3,"name":"JVC vs JVT Dubai: Which Fits Your Investment Profile?","item":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison"}]},{"@type":"FAQPage","@id":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison#faqpage","mainEntity":[{"@type":"Question","name":"Is JVC or JVT a better investment in 2026?","acceptedAnswer":{"@type":"Answer","text":"Both deliver 7-9% gross yields (DLD, Q1 2026) with nearly identical fundamentals. JVC offers more developer choice and deeper resale liquidity; JVT offers a lower-supply alternative with fewer active project choices."}},{"@type":"Question","name":"Why does JVC have so much more off-plan supply than JVT?","acceptedAnswer":{"@type":"Answer","text":"JVC is Dubai's largest mid-market community by unit count and land area. JVT is a smaller, adjacent community with less available land for new launches: a straightforward function of geography and development timeline."}},{"@type":"Question","name":"Does more supply in JVC mean rental oversupply risk?","acceptedAnswer":{"@type":"Answer","text":"Not automatically — JVC's yield remains strong at 7-9% because tenant demand has kept pace with new supply so far. But investors should still prioritize developer selection within JVC, since the pipeline's size means developer quality variance is wider than in JVT."}},{"@type":"Question","name":"Which is cheaper to buy into, JVC or JVT?","acceptedAnswer":{"@type":"Answer","text":"Both offer studio entry from roughly AED 500,000-550,000, close enough that price alone rarely decides between them."}},{"@type":"Question","name":"Can I resell a JVC property more easily than a JVT property?","acceptedAnswer":{"@type":"Answer","text":"Generally yes: JVC's larger transaction volume means deeper resale liquidity and a wider buyer pool. JVT has moderate transaction volume; it's a workable resale market, but listings typically take longer to find buyers than in JVC."}},{"@type":"Question","name":"Does developer selection matter more in JVC or JVT?","acceptedAnswer":{"@type":"Answer","text":"It matters critically in both, but arguably more so in JVC: the larger pipeline means wider developer quality variance and more projects from first-time or less-established developers. In JVT's smaller pool, the developer options are more concentrated and somewhat easier to vet."}}]}]}18:["$","main",null,{"style":{"backgroundColor":"#ffffff","overflowX":"hidden"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23","$L24","$L25","$L26"]}]
+27:I[45678,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"default"]
+28:I[22016,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],""]
+29:I[92575,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"BlogHeaderBar"]
+2a:I[59529,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"default"]
+2b:I[92575,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"BlogCtaCard"]
+2c:I[92575,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"BlogStatStrip"]
+36:I[2386,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"default"]
+39:I[13642,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"default"]
+:HL["/images/projects/fifth-tower/fifth-tower-hero-1.webp","image"]
+22:["$","$L27",null,{}]
+23:["$","section",null,{"style":{"position":"relative","padding":"clamp(120px, 15vw, 180px) clamp(20px, 5vw, 80px) clamp(60px, 8vw, 90px)","backgroundColor":"#02042d","color":"#ffffff"},"children":["$","div",null,{"style":{"maxWidth":"1100px","margin":"0 auto","display":"flex","flexDirection":"column","gap":"24px"},"children":[["$","div",null,{"style":{"display":"flex","gap":"8px","alignItems":"center","fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"13px","color":"rgba(224, 201, 150, 0.7)"},"children":[["$","$L28",null,{"href":"/blog","style":{"color":"inherit","textDecoration":"none"},"className":"hover:text-white transition-colors","children":"Journal"}],["$","span",null,{"children":"/"}],["$","span",null,{"style":{"color":"#ffffff"},"children":"Article"}]]}],["$","$L29",null,{"category":"Investment Guide"}],["$","$L2a",null,{"text":"JVC vs JVT Dubai: Which Fits Your Investment Profile?","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"clamp(32px, 5.5vw, 68px)","letterSpacing":"-2px","lineHeight":"1.05","color":"#ffffff","margin":"12px 0 0 0","fontWeight":400}}],["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","alignItems":"center","justifyContent":"space-between","gap":"20px","borderTop":"1px solid rgba(224,201,150,0.2)","paddingTop":"24px","marginTop":"20px"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"12px"},"children":["$","div",null,{"style":{"display":"flex","flexDirection":"column"},"children":[["$","span",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"14px","color":"#ffffff"},"children":"Arash Ahmadi"}],["$","span",null,{"style":{"fontFamily":"Uxum Grotesque Light, sans-serif","fontSize":"12px","color":"rgba(255,255,255,0.6)"},"children":"Founder & CEO"}]]}]}],["$","div",null,{"style":{"display":"flex","gap":"16px","fontFamily":"Uxum Grotesque Light, sans-serif","fontSize":"13px","color":"rgba(255,255,255,0.7)"},"children":[["$","span",null,{"children":["Published: ","August 4, 2026"]}],["$","span",null,{"children":"|"}],["$","span",null,{"children":["Last Updated: ","August 2026"]}],["$","span",null,{"children":"•"}],["$","span",null,{"children":"10 min read"}]]}]]}]]}]}]
+24:["$","section",null,{"style":{"padding":"clamp(50px, 8vw, 90px) clamp(20px, 5vw, 80px)"},"children":["$","div",null,{"style":{"maxWidth":"1100px","margin":"0 auto"},"children":[["$","div",null,{"style":{"width":"100%","height":"clamp(250px, 45vw, 520px)","position":"relative","overflow":"hidden","marginBottom":"clamp(32px, 5vw, 48px)"},"children":["$","img",null,{"src":"/images/projects/fifth-tower/fifth-tower-hero-1.webp","alt":"Jumeirah Village Circle and Jumeirah Village Triangle comparison","style":{"width":"100%","height":"100%","objectFit":"cover"}}]}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fit, minmax(min(100%, 480px), 1fr))","gap":"24px","marginBottom":"24px"},"children":[["$","div",null,{"style":{"border":"2px solid #e0c996","backgroundColor":"#fbfaf7","padding":"24px 32px","borderRadius":"0px","height":"100%","display":"flex","flexDirection":"column","justifyContent":"space-between","gap":"12px"},"children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"10px"},"children":[["$","span",null,{"style":{"display":"block","fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"11px","color":"#02042d","letterSpacing":"0.12em","fontWeight":600,"textTransform":"uppercase"},"children":"QUICK ANSWER"}],["$","p",null,{"style":{"fontFamily":"Neue Montreal Regular, sans-serif","fontSize":"16px","color":"#02042d","lineHeight":1.6,"margin":0},"children":"JVC and JVT deliver near-identical gross yields (7-9%, DLD Q1 2026) but differ meaningfully on supply: JVC has Dubai's largest off-plan pipeline, meaning more developer choice but more supply competition and wider developer quality variance; JVT has a smaller, quieter pipeline with potentially less resale and rental competition but fewer active project choices at any given moment. JVC suits investors prioritizing choice and exit liquidity; JVT suits those wanting JVC-equivalent yield with a lower-supply profile who are willing to be patient for the right project."}]]}]}],["$","$L2b",null,{"slug":"jvc-vs-jvt-dubai-investment-comparison"}]]}],["$","$L2c",null,{"slug":"jvc-vs-jvt-dubai-investment-comparison"}],["$","div",null,{"style":{"backgroundColor":"#f8f9fa","padding":"28px 32px","marginBottom":"48px","borderLeft":"4px solid #02042d"},"children":[["$","span",null,{"style":{"display":"block","fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"14px","color":"#02042d","fontWeight":600,"letterSpacing":"0.05em","textTransform":"uppercase","marginBottom":"16px"},"children":"TABLE OF CONTENTS"}],["$","ul",null,{"style":{"listStyleType":"none","padding":0,"margin":0,"display":"flex","flexDirection":"column","gap":"10px"},"children":[["$","li","1-jvc-and-jvt-what-they-actually-share",{"style":{"margin":0,"padding":0},"children":["$","a",null,{"href":"#1-jvc-and-jvt-what-they-actually-share","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"15px","color":"#02042d","textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"className":"hover:underline hover:text-[#e0c996] transition-colors","children":[["$","span",null,{"style":{"color":"#e0c996","fontSize":"12px"},"children":["0",1,"."]}],"JVC and JVT: What They Actually Share"]}]}],["$","li","2-where-they-genuinely-differ-and-why",{"style":{"margin":0,"padding":0},"children":["$","a",null,{"href":"#2-where-they-genuinely-differ-and-why","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"15px","color":"#02042d","textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"className":"hover:underline hover:text-[#e0c996] transition-colors","children":[["$","span",null,{"style":{"color":"#e0c996","fontSize":"12px"},"children":["0",2,"."]}],"Where They Genuinely Differ, and Why That Difference Exists"]}]}],["$","li","3-side-by-side-comparison-table",{"style":{"margin":0,"padding":0},"children":["$","a",null,{"href":"#3-side-by-side-comparison-table","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"15px","color":"#02042d","textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"className":"hover:underline hover:text-[#e0c996] transition-colors","children":["$L2d","Side-by-Side Comparison Table"]}]}],"$L2e","$L2f","$L30"]}]]}],"$L31","$L32","$L33","$L34","$L35"]}]}]
+37:T2235,
+<h2 id="1-option-1-a-jvc-studio-7-9-yield">1. Option 1: A JVC Studio, 7-9% Yield</h2>
+
+      <p>At AED 500,000, Jumeirah Village Circle (JVC) delivers a genuine studio (typically 400-450 sq.ft) in one of Dubai's most actively traded mid-market communities, with confirmed gross yields of 7-9% (DLD, Q1 2026). This is the highest-yield realistic option at this exact budget in WeNest's portfolio, backed by JVC's largest-in-Dubai off-plan pipeline and deep resale liquidity, meaning that whenever you eventually want to sell, there's a genuinely active buyer pool for a unit of this type and size.</p>
+
+      <p>Expect a standard studio layout: kitchenette, single living/sleeping area, one bathroom, and access to the building's shared amenities (pool, gym, parking). This isn't a luxury product at this price point: it's a functional, well-located rental asset. Tenants in JVC are typically mid-market working professionals and couples, with strong, sustained demand from Dubai's large professional population who want reasonable proximity to major business districts without paying Business Bay or Marina rents. Vacancy rates on well-managed, well-located JVC studios are low precisely because tenant demand at this rent level is strong and consistently replenished.</p>
+
+      <p>The AED 500,000 price point in JVC is typically accessible via off-plan developer payment plans with booking deposits in the 10-20% range (AED 50,000-100,000 upfront), making it one of the most accessible genuine investment entry points in WeNest's market. The relevant caveat is that JVC has Dubai's largest active off-plan supply pipeline, meaning developer selection matters more here than almost anywhere else: the yield numbers are real, but which building and developer you choose within JVC makes a meaningful difference to actual performance.</p>
+
+<h2 id="2-option-2-an-al-reem-island-studio-abu-dhabi-6-8-yield">2. Option 2: An Al Reem Island Studio, Abu Dhabi, 6-8% Yield</h2>
+
+      <p>The second realistic option at this budget sits in a different emirate entirely: Al Reem Island in Abu Dhabi, where studio pricing starts from a comparable range and delivers 6-8% gross yield. This is an established waterfront community close to Abu Dhabi's central business district, with a different tenant profile than JVC, heavier toward government employees, corporate professionals, and institutional-sector workers who form Abu Dhabi's dominant professional class.</p>
+
+      <p>For investors open to Abu Dhabi exposure rather than exclusively Dubai, Al Reem Island is a legitimate, mature-market alternative at the same budget tier. Abu Dhabi's residential sales volume grew 47.43% year-on-year in 2025 (ADREC), and off-plan pricing grew +17.99% YoY in Q1 2026, suggesting strong underlying demand momentum. The trade-off versus JVC: somewhat lower yield at this specific price point, but a different and potentially complementary tenant and market dynamic for investors building a diversified GCC portfolio rather than a single-emirate position.</p>
+
+<h2 id="3-what-aed-500-000-does-not-buy">3. What AED 500,000 Does NOT Buy</h2>
+
+      <p>To be direct: AED 500,000 does not buy a one-bedroom apartment in Business Bay (entry from ~AED 1.5M), Dubai Marina (~AED 1.7M), or Downtown Dubai (~AED 2M). It does not buy any unit type in Dubai Hills Estate, Sobha Hartland, or MBR City at a realistic new-project size. It generally won't buy a townhouse or villa anywhere in WeNest's portfolio. At this budget, the realistic universe is studios in JVC/JVT-tier mid-market communities or Al Reem Island: being clear about this upfront saves significant time that would otherwise go toward searching areas where AED 500,000 isn't a workable budget.</p>
+
+      <p>This isn't a limitation unique to Dubai: AED 500,000 (~USD 136,000) is a genuine investment-grade budget in Dubai's mid-market, comparable in absolute terms to real entry-level investment budgets in markets like Manchester, Melbourne, or Lisbon. The expectation that it should stretch to prime central real estate reflects a misalignment with actual market prices rather than a failure of the Dubai market to deliver value at this tier.</p>
+
+<h2 id="4-the-full-budget-ladder-aed-300k-to-aed-3m">4. The Full Budget Ladder: AED 300K to AED 3M+</h2>
+
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Budget</th>
+              <th>What It Realistically Buys</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>AED 300,000-450,000</td>
+              <td>Very limited studio inventory, mainly resale/older stock in outer areas</td>
+            </tr>
+            <tr>
+              <td>AED 450,000-700,000</td>
+              <td>JVC/JVT studios, Al Reem Island studios, Dubai South studios</td>
+            </tr>
+            <tr>
+              <td>AED 700,000-1,200,000</td>
+              <td>JVC/JVT 1-bedrooms, Dubai South 1-2 bedrooms, DAMAC Hills apartments</td>
+            </tr>
+            <tr>
+              <td>AED 1,200,000-2,200,000</td>
+              <td>Business Bay 1-2 bedrooms, Dubai Marina 1-bedrooms, Sobha Hartland 1-2 bedrooms</td>
+            </tr>
+            <tr>
+              <td>AED 2,200,000-4,000,000</td>
+              <td>Downtown Dubai/Business Bay 2-bedrooms (Golden Visa tier), DAMAC Hills villas</td>
+            </tr>
+            <tr>
+              <td>AED 4,000,000+</td>
+              <td>Larger villas, MBR City/District One product, premium waterfront penthouses</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+<h2 id="5-what-changes-if-you-stretch-to-aed-700-000">5. What Changes If You Stretch to AED 700,000?</h2>
+
+      <p>An additional AED 200,000 meaningfully changes the picture: at AED 700,000, a genuine one-bedroom becomes realistic in JVC/JVT, or a larger, better-positioned studio becomes available in the same areas at a higher floor or from a stronger developer. The yield profile stays similar (7-9%) while unit livability and long-term resale flexibility improve meaningfully — a one-bedroom has a wider eligible tenant pool and is easier to sell or re-let at higher rents if the market improves than a studio is.</p>
+
+      <p>For investors who can stretch slightly, AED 700,000 is often a more efficient budget point than AED 500,000 for this reason. The additional AED 200,000 invested doesn't necessarily increase yield (both tiers deliver comparable gross yields in JVC/JVT), but it improves the underlying asset quality and tenant-pool depth, which compounds over a multi-year hold.</p>
+
+<h2 id="6-the-realistic-numbers-at-this-budget">6. The Realistic Numbers at This Budget</h2>
+
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Item</th>
+              <th>Amount</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Purchase price</td>
+              <td>AED 500,000</td>
+            </tr>
+            <tr>
+              <td>DLD transfer fee (4%)</td>
+              <td>AED 20,000</td>
+            </tr>
+            <tr>
+              <td>Oqood/registration fees</td>
+              <td>AED 2,000-3,000</td>
+            </tr>
+            <tr>
+              <td>Total acquisition cost</td>
+              <td>~AED 522,000-523,000</td>
+            </tr>
+            <tr>
+              <td>Annual gross rent (7-9% yield)</td>
+              <td>AED 35,000-45,000/yr</td>
+            </tr>
+            <tr>
+              <td>Annual service charge (400-450 sq.ft at AED 10-15/sq.ft)</td>
+              <td>AED 4,000-6,750/yr</td>
+            </tr>
+            <tr>
+              <td>Net yield after service charges (est.)</td>
+              <td>~5.7-8% depending on building tier and management</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>Net yield after costs typically lands 1-1.5 percentage points below gross — still a genuinely competitive return relative to most international markets at this entry price. The AED 20,000 DLD fee is the largest one-time cost, representing 4% of purchase price, a real number to factor into the full investment cost from day one rather than treating it as a closing-cost afterthought after purchase decisions have been made.</p>
+
+      <p>To put this in perspective: on a total acquisition cost of ~AED 522,000 at a net yield of 6.5%, annual net income is approximately AED 33,930 — roughly USD 9,240 per year on a USD 142,000 total investment. That return profile, compared to savings accounts, bonds, or residential property in most Western markets at the same budget, is why JVC studios at this tier attract consistent international investor demand.</p>
+    25:["$","section",null,{"style":{"backgroundColor":"#f9f9f9","padding":"clamp(60px, 8vw, 100px) clamp(20px, 5vw, 80px)","borderTop":"1px solid rgba(0,0,0,0.06)"},"children":["$","div",null,{"style":{"maxWidth":"1100px","margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"clamp(28px, 4vw, 48px)","fontWeight":400,"color":"#02042d","marginBottom":"40px","letterSpacing":"-1px"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fit, minmax(min(100%, 380px), 1fr))","gap":"24px"},"children":[["$","$L36","what-aed-500000-buys-in-dubai-2026",{"post":{"id":"what-aed-500000-buys-in-dubai-2026","slug":"what-aed-500000-buys-in-dubai-2026","title":"What AED 500,000 Actually Buys in Dubai in 2026","summary":"What AED 500,000 (~USD 136,000) actually buys in Dubai property in 2026, real areas, real unit sizes, real yields, no inflated marketing photos.","category":"Investment Guide","readTime":"8 min read","publishedAt":"September 29, 2026","lastUpdated":"September 2026","image":"/images/projects/alta/alta-v1ew_hero-1.webp","imageAlt":"What AED 500000 buys in Dubai real estate 2026","seoKeywords":["what does AED 500000 buy in dubai","dubai property under 500000 aed","cheap dubai property investment","dubai studio apartment price 2026"],"directAnswer":"AED 500,000 (approximately USD 136,000) buys a studio apartment of roughly 400-450 sq.ft in JVC or a similar-sized unit on Al Reem Island, Abu Dhabi in 2026, both delivering 6-9% gross yield. It won't buy a one-bedroom in Business Bay or Downtown Dubai. This is a realistic, unfiltered look at what this specific budget actually gets, area by area, plus what changes at budget tiers above and below it.","author":{"name":"Arash Ahmadi","role":"Founder & CEO","avatar":"/assets/images/about founder image.webp","bio":"Arash holds a Master's in Construction & Project Management and has nearly two decades of UAE real estate and infrastructure experience."},"content":"$37","faqs":[{"q":"What does AED 500,000 actually buy in Dubai property in 2026?","a":"A genuine studio apartment of roughly 400-450 sq.ft in JVC, or a comparably-sized studio on Al Reem Island, Abu Dhabi — both delivering 6-9% gross yield. It does not buy a one-bedroom in Business Bay, Dubai Marina, or Downtown Dubai."},{"q":"Is AED 500,000 (~USD 136,000) a realistic entry point for a first-time Dubai investor?","a":"Yes — it's genuinely the standard entry-level budget WeNest sees from first-time international investors. JVC specifically is the most common recommendation at this tier given its yield strength, developer choice, and resale liquidity."},{"q":"What yield can I expect on a AED 500,000 Dubai property?","a":"6-9% gross depending on area (JVC/JVT at the higher end, Al Reem Island slightly lower), with net yield typically running 1-1.5 percentage points below the gross figure after service charges and costs."},{"q":"Should I buy in Dubai or Abu Dhabi at this budget?","a":"Both are legitimate options — JVC (Dubai) offers slightly higher yield and deeper resale liquidity; Al Reem Island (Abu Dhabi) offers comparable value with different tenant demand dynamics. Neither is objectively better; it depends on your broader goals such as Dubai-specific Golden Visa planning versus general GCC exposure."},{"q":"Can I get the Golden Visa with a AED 500,000 property?","a":"No. The Golden Visa threshold is AED 2,000,000 in DLD-certified value — a AED 500,000 studio sits well below this and would need to be combined with other qualifying assets or upgraded to a larger unit to reach the threshold."},{"q":"What's the smallest realistic step up from AED 500,000?","a":"AED 700,000 meaningfully changes the picture — often enough to secure a genuine one-bedroom in JVC/JVT rather than a studio, at a similar 7-9% yield profile but with a wider tenant pool and better long-term resale flexibility."}]}}],"$L38"]}]]}]}]
+26:["$","$L39",null,{}]
+3c:I[23614,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js","/_next/static/chunks/0c42mny4fqwb3.js","/_next/static/chunks/3ffb5q3w_zjrn.js"],"default"]
+2d:["$","span",null,{"style":{"color":"#e0c996","fontSize":"12px"},"children":["0",3,"."]}]
+2e:["$","li","4-which-investor-profile-fits-jvc",{"style":{"margin":0,"padding":0},"children":["$","a",null,{"href":"#4-which-investor-profile-fits-jvc","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"15px","color":"#02042d","textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"className":"hover:underline hover:text-[#e0c996] transition-colors","children":[["$","span",null,{"style":{"color":"#e0c996","fontSize":"12px"},"children":["0",4,"."]}],"Which Investor Profile Fits JVC?"]}]}]
+2f:["$","li","5-which-investor-profile-fits-jvt",{"style":{"margin":0,"padding":0},"children":["$","a",null,{"href":"#5-which-investor-profile-fits-jvt","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"15px","color":"#02042d","textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"className":"hover:underline hover:text-[#e0c996] transition-colors","children":[["$","span",null,{"style":{"color":"#e0c996","fontSize":"12px"},"children":["0",5,"."]}],"Which Investor Profile Fits JVT?"]}]}]
+30:["$","li","6-how-developer-selection-changes-the-calculation",{"style":{"margin":0,"padding":0},"children":["$","a",null,{"href":"#6-how-developer-selection-changes-the-calculation","style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"15px","color":"#02042d","textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"className":"hover:underline hover:text-[#e0c996] transition-colors","children":[["$","span",null,{"style":{"color":"#e0c996","fontSize":"12px"},"children":["0",6,"."]}],"How Developer Selection Changes the Calculation"]}]}]
+3a:T1da6,
+      <h2 id="1-jvc-and-jvt-what-they-actually-share">1. JVC and JVT: What They Actually Share</h2>
+      <p>Jumeirah Village Circle and Jumeirah Village Triangle are adjacent, Nakheel-developed communities with near-identical demand fundamentals, and it's worth starting with what they share before getting into the differences: the similarities are substantial and often underweighted in casual comparisons.</p>
+      <p>Both deliver 7-9% gross yields (DLD, Q1 2026), among the strongest yield ranges anywhere in Dubai's mid-market segment. Both are freehold, family-friendly, pet-friendly communities with a mix of studios through townhouses. Both sit in a similar location band relative to Sheikh Mohammed Bin Zayed Road and Al Khail Road, giving broadly comparable commute times to Dubai Marina, Downtown Dubai, and Business Bay. Studio entry pricing in both starts around AED 500,000.</p>
+      <blockquote><strong>Quick Summary:</strong> JVC and JVT are close enough on yield, location, and entry price that the meaningful decision factors sit elsewhere: primarily supply dynamics and what projects are live at the time you're ready to buy.</blockquote>
+
+      <h2 id="2-where-they-genuinely-differ-and-why">2. Where They Genuinely Differ, and Why That Difference Exists</h2>
+      <p>The core difference is supply. JVC is Dubai's largest single mid-market community by unit count and land area, developed earlier and more extensively by Nakheel, with a wider range of active developer plots over a longer period. This has made JVC Dubai's single largest active off-plan pipeline by project count at any given time.</p>
+      <p>JVT, developed somewhat later and on a smaller physical footprint immediately adjacent to JVC, simply has less available land for new development. This isn't a quality signal about JVT: it's a straightforward function of geography and development timeline. The practical result is that JVT has a meaningfully smaller number of active or recently launched projects at any given time compared to JVC.</p>
+      <p>This supply difference cuts both ways. More supply in JVC means more developer choice for a buyer: more projects to compare, more price points, more unit configurations. But it also means more competing new supply hitting the resale and rental market simultaneously as multiple projects complete around similar timeframes, and developer quality varies more widely across JVC's larger pool of active developers than in JVT's smaller, more concentrated pipeline. JVT's smaller footprint means less choice at any given moment, but also less rental oversupply pressure as new units complete.</p>
+      <blockquote><strong>Key Takeaway:</strong> JVC's scale means more choice and more competition simultaneously, plus wider developer quality variance to navigate; JVT's smaller footprint means less choice at any given moment but potentially less rental oversupply pressure.</blockquote>
+
+      <h2 id="3-side-by-side-comparison-table">3. Side-by-Side Comparison Table</h2>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Factor</th>
+              <th>JVC</th>
+              <th>JVT</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Gross Yield</td>
+              <td>7-9% (DLD, Q1 2026)</td>
+              <td>7-9% (DLD, Q1 2026)</td>
+            </tr>
+            <tr>
+              <td>Off-Plan Supply</td>
+              <td>Largest pipeline in Dubai</td>
+              <td>Meaningfully smaller pipeline</td>
+            </tr>
+            <tr>
+              <td>Developer Choice</td>
+              <td>Very high — dozens of active developers</td>
+              <td>Moderate — a more concentrated set</td>
+            </tr>
+            <tr>
+              <td>Studio Entry</td>
+              <td>~AED 500,000</td>
+              <td>~AED 500,000-550,000</td>
+            </tr>
+            <tr>
+              <td>Rental Competition</td>
+              <td>Higher — more units completing concurrently</td>
+              <td>Lower — fewer units completing at once</td>
+            </tr>
+            <tr>
+              <td>Resale Liquidity</td>
+              <td>Very high transaction volume</td>
+              <td>Moderate transaction volume</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2 id="4-which-investor-profile-fits-jvc">4. Which Investor Profile Fits JVC?</h2>
+      <p>JVC suits investors who want maximum project choice (the ability to compare multiple developers, unit configurations, price points, and payment plans within a single area before committing), plus the deepest resale market for eventual exit liquidity. Because supply is large, developer quality varies more widely here than in smaller communities; the yield is real, but which specific building you buy in matters more in JVC than almost anywhere else.</p>
+      <p>JVC also suits investors with strong resale-exit priorities. Because the market is so actively traded, listing and selling a completed unit is generally faster here than in lower-volume communities, a relevant factor if flexibility matters to you over a 3-5 year hold horizon.</p>
+      <blockquote><strong>TL;DR:</strong> JVC rewards investors who prioritize choice and exit liquidity and are prepared to be selective about developer quality within a crowded pipeline.</blockquote>
+
+      <h2 id="5-which-investor-profile-fits-jvt">5. Which Investor Profile Fits JVT?</h2>
+      <p>JVT suits investors who want JVC-equivalent yield with a lower-supply profile: fewer units competing for the same tenant pool at any given time, and a comparatively quieter, less saturated resale market. The trade-off is fewer active project choices at any given moment, which can mean less flexibility on unit type, floor, or specific developer at the exact time you're ready to buy.</p>
+      <p>Because JVT's pipeline is smaller and its developer pool more concentrated, due diligence on the specific project available matters even more here than in JVC: there are fewer alternatives if one specific option doesn't pass your vetting criteria. Patience in timing your entry to a well-vetted project is usually the right approach in JVT.</p>
+      <blockquote><strong>Key Takeaway:</strong> JVT offers a genuine lower-supply alternative to JVC at nearly identical yield: the cost is fewer live project choices when you're ready to commit.</blockquote>
+
+      <h2 id="6-how-developer-selection-changes-the-calculation">6. How Developer Selection Changes the Calculation</h2>
+      <p>It's worth stating directly: the area-level yield numbers above (7-9% for both) represent the range across each community, not a guarantee for any specific building. A well-selected project from a strong developer in either area can outperform this range; a poorly selected project from a weak developer can underperform it, regardless of area. This means the JVC vs JVT question, while genuinely useful for understanding supply dynamics and community character, is ultimately secondary to developer and project selection within whichever area you choose.</p>
+      <p>This is precisely why WeNest doesn't lead with an area recommendation in isolation: actual guidance combines area-level supply dynamics with project-specific developer track record, escrow verification, and construction-stage assessment before any specific recommendation is made. Neither area is a universally "better" choice, and any framing that suggests otherwise is oversimplifying a genuinely close comparison.</p>
+    31:["$","article",null,{"className":"blog-article-content","style":{"fontFamily":"Neue Montreal Regular, sans-serif","fontSize":"clamp(16px, 1.8vw, 19px)","color":"#333333","lineHeight":"1.75"},"children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$3a"}}]]}]
+3b:Tccd,
+            .blog-article-content p {
+              margin-bottom: 24px;
+            }
+            .blog-article-content h2 {
+              font-family: 'Uxum Grotesque Regular', sans-serif;
+              font-size: clamp(24px, 3.2vw, 36px);
+              color: #02042d;
+              margin-top: 56px;
+              margin-bottom: 20px;
+              line-height: 1.2;
+              font-weight: 400;
+              letter-spacing: -1.5px;
+              scroll-margin-top: 100px;
+            }
+            .blog-article-content h3 {
+              font-family: 'Uxum Grotesque Regular', sans-serif;
+              font-size: clamp(18px, 2.2vw, 24px);
+              color: #02042d;
+              margin-top: 36px;
+              margin-bottom: 14px;
+              line-height: 1.3;
+              font-weight: 400;
+              letter-spacing: -0.5px;
+            }
+            .blog-article-content ul, .blog-article-content ol {
+              margin-bottom: 32px;
+              padding-left: 24px;
+            }
+            .blog-article-content li {
+              margin-bottom: 10px;
+              list-style-position: outside;
+            }
+            .blog-article-content ul li {
+              list-style-type: square;
+            }
+            .blog-article-content ol li {
+              list-style-type: decimal;
+            }
+            .blog-article-content blockquote {
+              border-left: 3px solid #e0c996;
+              padding: 20px 28px;
+              margin: 40px 0;
+              background-color: rgba(224, 201, 150, 0.06);
+              font-style: normal;
+              font-family: 'Neue Montreal Regular', sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+              color: #02042d;
+              font-weight: 500;
+            }
+            .blog-article-content a {
+              color: #02042d;
+              text-decoration: underline;
+              text-underline-offset: 4px;
+              font-weight: 600;
+              transition: color 0.3s;
+            }
+            .blog-article-content a:hover {
+              color: #e0c996;
+            }
+            /* Table Styling */
+            .blog-article-content .table-container {
+              width: 100%;
+              overflow-x: auto;
+              margin: 32px 0;
+              border: 1px solid rgba(2, 4, 45, 0.1);
+            }
+            .blog-article-content table {
+              width: 100%;
+              border-collapse: collapse;
+              text-align: left;
+              font-size: 14px;
+            }
+            .blog-article-content th, .blog-article-content td {
+              padding: 16px 20px;
+              border-bottom: 1px solid rgba(2, 4, 45, 0.1);
+            }
+            .blog-article-content th {
+              background-color: #02042d;
+              color: #ffffff;
+              font-family: 'Uxum Grotesque Regular', sans-serif;
+              font-weight: 400;
+              text-transform: uppercase;
+              font-size: 11px;
+              letter-spacing: 0.05em;
+            }
+            .blog-article-content tr:last-child td {
+              border-bottom: none;
+            }
+            .blog-article-content tr:hover td {
+              background-color: rgba(224, 201, 150, 0.04);
+            }
+          32:["$","style",null,{"children":"$3b"}]
+33:["$","div",null,{"style":{"border":"1px solid rgba(2, 4, 45, 0.12)","padding":"32px","marginTop":"64px","marginBottom":"48px","display":"flex","flexDirection":"column","gap":"24px","backgroundColor":"#fbfbfb"},"className":"flex flex-col md:flex-row","children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"8px"},"children":[["$","span",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"11px","color":"#555555","letterSpacing":"0.1em","textTransform":"uppercase"},"children":"ABOUT THE AUTHOR"}],["$","h4",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"20px","color":"#02042d","margin":0,"fontWeight":400},"children":["Arash Ahmadi"," - ","Founder & CEO"]}],["$","p",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"12px","color":"#888888","margin":"0 0 8px 0"},"children":"WeNest Real Estate LLC, Business Bay, Dubai"}],["$","p",null,{"style":{"fontFamily":"Neue Montreal Regular, sans-serif","fontSize":"15px","color":"#555555","lineHeight":1.5,"margin":0},"children":["Arash holds a Master's in Construction & Project Management and has nearly two decades of UAE real estate and infrastructure experience."," ",["$","a",null,{"href":"https://www.linkedin.com/company/wenest-real-estate/","target":"_blank","rel":"noopener noreferrer","style":{"color":"#02042d","textDecoration":"underline","fontWeight":600},"children":"LinkedIn Profile"}]]}]]}]}]
+34:["$","div",null,{"style":{"marginTop":"56px","scrollMarginTop":"100px"},"id":"faqs","children":["$","$L3c",null,{"faqs":[{"q":"Is JVC or JVT a better investment in 2026?","a":"Both deliver 7-9% gross yields (DLD, Q1 2026) with nearly identical fundamentals. JVC offers more developer choice and deeper resale liquidity; JVT offers a lower-supply alternative with fewer active project choices."},{"q":"Why does JVC have so much more off-plan supply than JVT?","a":"JVC is Dubai's largest mid-market community by unit count and land area. JVT is a smaller, adjacent community with less available land for new launches: a straightforward function of geography and development timeline."},{"q":"Does more supply in JVC mean rental oversupply risk?","a":"Not automatically — JVC's yield remains strong at 7-9% because tenant demand has kept pace with new supply so far. But investors should still prioritize developer selection within JVC, since the pipeline's size means developer quality variance is wider than in JVT."},{"q":"Which is cheaper to buy into, JVC or JVT?","a":"Both offer studio entry from roughly AED 500,000-550,000, close enough that price alone rarely decides between them."},{"q":"Can I resell a JVC property more easily than a JVT property?","a":"Generally yes: JVC's larger transaction volume means deeper resale liquidity and a wider buyer pool. JVT has moderate transaction volume; it's a workable resale market, but listings typically take longer to find buyers than in JVC."},{"q":"Does developer selection matter more in JVC or JVT?","a":"It matters critically in both, but arguably more so in JVC: the larger pipeline means wider developer quality variance and more projects from first-time or less-established developers. In JVT's smaller pool, the developer options are more concentrated and somewhat easier to vet."}],"theme":"light"}]}]
+3d:T450,M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.888-.788-1.489-1.761-1.662-2.06-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.095 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.577-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z35:["$","div",null,{"style":{"backgroundColor":"#02042d","padding":"clamp(32px, 5vw, 56px)","borderRadius":"0px","marginTop":"64px","borderTop":"4px solid #e0c996","display":"flex","flexDirection":"column","gap":"24px","color":"#ffffff"},"children":[["$","span",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"11px","color":"#e0c996","letterSpacing":"0.12em","textTransform":"uppercase","display":"block"},"children":"INVEST IN DUBAI WITH WENEST"}],["$","h3",null,{"style":{"fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"clamp(22px, 3.5vw, 38px)","fontWeight":400,"color":"#ffffff","margin":0,"lineHeight":1.15,"letterSpacing":"-1.5px"},"children":"Advise remote, execute secure, yield high."}],["$","p",null,{"style":{"fontFamily":"Uxum Grotesque Light, sans-serif","fontSize":"15px","color":"rgba(255, 255, 255, 0.8)","margin":0,"lineHeight":1.6,"maxWidth":"680px"},"children":"WeNest advises investors from Australia, New Zealand, Hong Kong, Singapore, England, Turkey, Armenia, and beyond entirely remotely - from first consultation to Title Deed, on WhatsApp."}],["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"16px","margin":"12px 0"},"children":[["$","a",null,{"href":"https://wa.me/971541511512","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"10px","backgroundColor":"#e0c996","color":"#02042d","padding":"14px 28px","fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"13px","fontWeight":600,"textTransform":"uppercase","letterSpacing":"0.05em","textDecoration":"none","transition":"opacity 0.3s"},"className":"hover:opacity-90 transition-opacity","children":[["$","svg",null,{"viewBox":"0 0 24 24","width":"18","height":"18","fill":"currentColor","children":["$","path",null,{"d":"$3d"}]}],"Contact WeNest on WhatsApp"]}],["$","$L28",null,{"href":"/projects","style":{"display":"inline-flex","alignItems":"center","gap":"10px","backgroundColor":"transparent","color":"#e0c996","border":"1px solid #e0c996","padding":"14px 28px","fontFamily":"Uxum Grotesque Regular, sans-serif","fontSize":"13px","fontWeight":600,"textTransform":"uppercase","letterSpacing":"0.05em","textDecoration":"none","transition":"background-color 0.3s"},"className":"hover:bg-[#e0c996]/10 transition-colors","children":["Browse Projects",["$","svg",null,{"viewBox":"0 0 14 14","width":"12","height":"12","fill":"none","className":"arrow-icon-diagonal","children":["$","path",null,{"d":"M1 13L13 1M13 1H4M13 1V10","stroke":"#e0c996","strokeWidth":"1.5","strokeLinecap":"square","strokeLinejoin":"miter"}]}]]}]]}],["$","div",null,{"style":{"borderTop":"1px solid rgba(224, 201, 150, 0.15)","paddingTop":"20px"},"children":["$","ul",null,{"className":"trust-signals-grid","children":[["$","li",null,{"style":{"fontSize":"13px","fontFamily":"Uxum Grotesque Light, sans-serif","color":"rgba(255,255,255,0.7)","margin":0,"display":"flex","alignItems":"center","gap":"8px"},"children":["$L3e"," RERA-Registered Agency, Dubai"]}],"$L3f","$L40","$L41"]}]}]]}]
+42:T1e44,
+<h2 id="1-why-this-question-gets-asked-so-often">1. Why This Question Gets Asked So Often</h2>
+
+      <p>"Is Dubai property a scam" is a genuinely reasonable question: international real estate has a real history of fraud globally, and Dubai's rapid growth, heavy digital marketing, and appeal to international buyers who can't physically inspect what they're buying all create conditions where bad actors can operate more easily than in a mature, locally-dominated market. The honest answer requires separating the regulated market structure (legitimate and well-documented) from bad actors operating within any large market (real, identifiable, and avoidable with the right checks).</p>
+
+      <p>The Dubai property market itself is not a scam: it's backed by real physical assets, regulated by RERA, with transactions registered by the Dubai Land Department creating a legal ownership record. This is the starting point. But within this legitimate market, genuine scam patterns do exist, and international buyers, particularly those who haven't bought in Dubai before and are operating remotely, are a disproportionate target for them.</p>
+
+<h2 id="2-where-scams-actually-happen-in-this-market">2. Where Scams Actually Happen in This Market</h2>
+
+      <p>The four most common scam patterns in the Dubai property market: unlicensed "agents" collecting deposits with no RERA registration and no legal authority to represent a developer or seller. Fake or misrepresented escrow claims: verbal assurances of "escrow protection" without a verifiable, disclosed account number. Pressure-sale tactics targeting inexperienced buyers with artificial urgency to transfer funds before reviewing documentation. And guaranteed-return promises disconnected from actual rental market performance, the most reliable of all red flags across every international real estate market.</p>
+
+      <p>Every one of these patterns has a specific, verifiable counter-check that takes minutes to apply. An RERA license number is independently verifiable in seconds. An escrow account number is confirmed against DLD's public system immediately. A request to "read the SPA before paying" is a test of intent that takes no time. And skepticism toward fixed guaranteed returns is simply the correct default position in any investment context. The scam patterns persist not because they're sophisticated (they're not) but because buyers who are new to the market and operating under pressure don't always know to apply these checks before acting.</p>
+
+<h2 id="3-the-four-documented-scam-patterns-in-detail">3. The Four Documented Scam Patterns, In Detail</h2>
+
+      <p><strong>Pattern 1: The unlicensed agent.</strong> Someone presents themselves as a Dubai property specialist, often via social media DM or unsolicited call, with no verifiable RERA license number, and asks for a deposit to "hold" a unit. Legitimate agents have a RERA Broker Registration Number (BRN) that's independently checkable in seconds via the Dubai REST app or RERA's public registry: an unwillingness or inability to provide it immediately is disqualifying, not a coincidence.</p>
+
+      <p><strong>Pattern 2: The phantom escrow claim.</strong> A seller or agent describes a project as "fully escrow protected" without providing the actual account number, or provides a number that doesn't match DLD's public Rent and Escrow system when checked. The word "escrow" alone means nothing without a verifiable account number attached to it, and the account number should be disclosed in the SPA, not provided verbally or on request, but printed in the contract.</p>
+
+      <p><strong>Pattern 3: The artificial urgency sale.</strong> "This price is only available today" or "we have three other buyers interested right now" pressure tactics, especially combined with a request to transfer funds before receiving or reviewing a full SPA. Legitimate developers and agencies don't need to manufacture urgency around a genuinely well-positioned project. Urgency pressure combined with a request to pay before documentation is a reliable signal that something is wrong, not that you're about to miss a real opportunity.</p>
+
+      <p><strong>Pattern 4: The guaranteed-return promise.</strong> A specific, fixed annual return promised in writing or verbally, disconnected from actual rental market performance. Real yields fluctuate with the market; a "guaranteed 10% for 5 years" promise is not how legitimate Dubai rental income works and is a documented pattern in scam cases globally, not specific to Dubai, and a red flag in every market that deploys it.</p>
+
+<h2 id="4-why-social-media-has-made-this-worse">4. Why Social Media Has Made This Worse</h2>
+
+      <p>A meaningful share of the more aggressive marketing and outright scam attempts targeting international buyers now originate through social media: unsolicited DMs, comment-section pitches, and highly produced video content promising specific guaranteed returns or "insider" pre-launch access. Social media allows anyone to present a polished, credible-looking front with no verification step built into the platform. A legitimate RERA-registered agency with verified DLD credentials looks similar on Instagram or LinkedIn to an unlicensed individual using the same visual language, stock photography, and marketing terminology.</p>
+
+      <p>The signal that matters isn't the quality of the content: it's the willingness to be independently verified. A genuinely legitimate opportunity can withstand the buyer independently verifying every claim before proceeding: RERA license check, escrow account check, SPA review before payment. Any resistance to any of these checks is itself a signal worth taking seriously, regardless of how professional the surrounding presentation looks.</p>
+
+<h2 id="5-how-the-legitimate-market-actually-works">5. How the Legitimate Market Actually Works</h2>
+
+      <p>RERA licenses agents and regulates developer conduct with real enforcement authority, including the ability to revoke licenses, impose fines, and initiate legal proceedings for violations. Every off-plan project must have a disclosed, verifiable escrow account with a RERA registration number before any sales activity can legally begin. Every transaction registers with the Dubai Land Department, creating a permanent, independently accessible ownership record. None of this is unique to WeNest; it's the baseline structure of the legitimate market, and any agency or project failing to meet it should be treated with real caution.</p>
+
+      <h2 id="6-your-pre-wire-transfer-checklist">6. Your Pre-Wire-Transfer Checklist</h2>
+
+      <p>Before sending any money for a Dubai property: confirm the agent or agency's RERA license number independently (not just their word for it: check it against RERA's public registry or the Dubai REST app). Confirm the project's escrow account number against DLD's Rent and Escrow system: the number should be in the SPA, and should match a current, active listing on DLD's system. Request and read the full Sale and Purchase Agreement before any payment: never wire funds without reviewing the contract first, for any reason. And treat any guaranteed-return promise or artificial urgency as a reason to slow down and ask more questions, not speed up and transfer faster.</p>
+
+      <p>These checks take minutes and cost nothing. The patterns they catch have cost buyers hundreds of thousands of AED in documented cases. The gap between a scam and a legitimate opportunity is, in almost every case, willing to be bridged by independent verification, which is why independent verification is the most important habit an international buyer can develop before their first Dubai property transaction.</p>
+    38:["$","$L36","is-dubai-property-investment-a-scam",{"post":{"id":"is-dubai-property-investment-a-scam","slug":"is-dubai-property-investment-a-scam","title":"Is Dubai Property Investment a Scam? An Honest Answer","summary":"Is Dubai property investment a scam? No, but here's exactly where real scams happen in this market, how to spot them, and how the legitimate market actually works.","category":"Investment Guide","readTime":"9 min read","publishedAt":"September 22, 2026","lastUpdated":"September 2026","image":"/images/projects/ellignton-portside/EP-main-1.webp","imageAlt":"Is Dubai property investment a scam red flags to watch","seoKeywords":["is dubai property investment a scam","dubai real estate scam","is dubai property a ponzi scheme","dubai off-plan scam warning signs"],"directAnswer":"No, the Dubai property market itself is not a scam: it's a regulated, RERA-governed market with mandatory escrow protection and DLD-registered ownership. But scams do happen within it: unlicensed \"agents,\" fake escrow claims, and pressure-sale tactics targeting inexperienced international buyers. The market is legitimate; not every seller in it is.","author":{"name":"Arash Ahmadi","role":"Founder & CEO","avatar":"/assets/images/about founder image.webp","bio":"Arash holds a Master's in Construction & Project Management and has nearly two decades of UAE real estate and infrastructure experience."},"content":"$42","faqs":[{"q":"Is Dubai real estate a Ponzi scheme?","a":"No. Dubai's property market is backed by real, physical assets, registered ownership via the DLD, and RERA regulation: structurally nothing like a Ponzi scheme, which relies on paying earlier investors with later investors' capital rather than real underlying assets."},{"q":"How can I check if an agent is actually RERA-licensed?","a":"Ask for their RERA Broker Registration Number (BRN) and verify it independently via the Dubai REST app or RERA's public registry. A legitimate RERA-registered agent provides this immediately: unwillingness or inability to do so is disqualifying."},{"q":"What's the biggest red flag in a Dubai property pitch?","a":"A guaranteed fixed annual return promised in writing or verbally, combined with pressure to move quickly. Legitimate yields are strong but market-driven, never contractually guaranteed."},{"q":"Should I trust an agent who won't provide a written SPA before I pay?","a":"No. Never transfer funds without first receiving and reviewing a full Sale and Purchase Agreement. Any resistance to providing this before payment is a serious red flag."},{"q":"Is it safe to buy Dubai property found through a social media DM?","a":"Not inherently unsafe, but the same verification standards apply regardless of the channel: confirm RERA registration and escrow account independently before proceeding. The quality of the content is not the verification; independent confirmation of RERA license and escrow account is."}]}}]
+3e:["$","span",null,{"style":{"color":"#e0c996"},"children":"✓"}]
+3f:["$","li",null,{"style":{"fontSize":"13px","fontFamily":"Uxum Grotesque Light, sans-serif","color":"rgba(255,255,255,0.7)","margin":0,"display":"flex","alignItems":"center","gap":"8px"},"children":[["$","span",null,{"style":{"color":"#e0c996"},"children":"✓"}]," Dubai Land Department Registered"]}]
+40:["$","li",null,{"style":{"fontSize":"13px","fontFamily":"Uxum Grotesque Light, sans-serif","color":"rgba(255,255,255,0.7)","margin":0,"display":"flex","alignItems":"center","gap":"8px"},"children":[["$","span",null,{"style":{"color":"#e0c996"},"children":"✓"}]," International Investor Specialists: AU, NZ, HK, SG, UK, TR, AM"]}]
+41:["$","li",null,{"style":{"fontSize":"13px","fontFamily":"Uxum Grotesque Light, sans-serif","color":"rgba(255,255,255,0.7)","margin":0,"display":"flex","alignItems":"center","gap":"8px"},"children":[["$","span",null,{"style":{"color":"#e0c996"},"children":"✓"}]," No-Obligation Advisory - 100% Remote-Friendly"]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+43:I[54500,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"JVC vs JVT Dubai: Which Fits Your Investment Profile? | WeNest Journal | WeNest Real Estate LLC"}],["$","meta","1",{"name":"description","content":"JVC vs JVT compared for investors, yield, supply pipeline, price per sq.ft, tenant profile, and which community fits your budget and risk tolerance in 2026."}],["$","meta","2",{"name":"keywords","content":"jvc vs jvt dubai investment,jumeirah village circle vs triangle,jvc or jvt better investment,jvt dubai property investment,jvc supply risk 2026"}],["$","link","3",{"rel":"canonical","href":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison/"}],["$","meta","4",{"property":"og:title","content":"JVC vs JVT Dubai: Which Fits Your Investment Profile? | WeNest Journal"}],["$","meta","5",{"property":"og:description","content":"JVC vs JVT compared for investors, yield, supply pipeline, price per sq.ft, tenant profile, and which community fits your budget and risk tolerance in 2026."}],["$","meta","6",{"property":"og:url","content":"https://www.wenestre.com/blog/jvc-vs-jvt-dubai-investment-comparison/"}],["$","meta","7",{"property":"og:image","content":"https://www.wenestre.com/images/projects/fifth-tower/fifth-tower-hero-1.webp"}],["$","meta","8",{"property":"og:image:alt","content":"Jumeirah Village Circle and Jumeirah Village Triangle comparison"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2026-08-03T18:30:00.000Z"}],["$","meta","11",{"property":"article:author","content":"Arash Ahmadi"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:site","content":"@wenest_re"}],["$","meta","14",{"name":"twitter:title","content":"JVC vs JVT Dubai: Which Fits Your Investment Profile? | WeNest Journal"}],["$","meta","15",{"name":"twitter:description","content":"JVC vs JVT compared for investors, yield, supply pipeline, price per sq.ft, tenant profile, and which community fits your budget and risk tolerance in 2026."}],["$","meta","16",{"name":"twitter:image","content":"https://www.wenestre.com/images/projects/fifth-tower/fifth-tower-hero-1.webp"}],["$","meta","17",{"name":"twitter:image:alt","content":"Jumeirah Village Circle and Jumeirah Village Triangle comparison"}],["$","link","18",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","$L43","19",{}]]

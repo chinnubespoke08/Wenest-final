@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/2urc19nznf94g.js","/_next/static/chunks/1y7rf292ko3d_.js","/_next/static/chunks/2cw0y28ds1-ro.js","/_next/static/chunks/381lqymw6tbp1.js","/_next/static/chunks/3l8z92x2dwnki.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wenest-build"}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/roadshow/australian-roadshow-2026;307;"}
